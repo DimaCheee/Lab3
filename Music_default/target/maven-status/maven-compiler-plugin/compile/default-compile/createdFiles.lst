@@ -1,9 +1,0 @@
-ua\city\Genre.class
-ua\city\Song.class
-ua\city\GenreExp.class
-ua\city\DatabaseControl.class
-ua\city\Main.class
-ua\city\MusicGroupExp.class
-ua\city\ExecuteQueryServlet.class
-ua\city\MusicGroup.class
-ua\city\SongExp.class
